@@ -26,10 +26,10 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/8FYR7NY64FHL"
   date_start = "2020-07-01"
   date_end = ""
-  description = """-Learned in depth about shallow and deep neural networks, including creating them from scratch without the use of a framework
-  -Learned about various CNN and RNN architectures
-  -Created a face verification system using a basic CNN architecture
-  -Learned about the framework Tensorflow, and how to use it."""
+  description = """*Learnt in depth about shallow and deep neural networks, including creating them from scratch without the use of a framework
+  *Learnt about various CNN and RNN architectures
+  *Created a face verification system using a basic CNN architecture
+  *Learnt about the framework Tensorflow, and how to use it."""
 
 [[item]]
   organization = "Courser"
@@ -39,8 +39,8 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/UMPH8YC3NDFW"
   date_start = "2020-07-01"
   date_end = ""
-  description = """-Learned the basics of Tensorflow framework
-  -Used the Tensorflow framework to create various Image and Object detection applications
-  -Used YOLO, to learn more about Object Detection Architecture"""
+  description = """*Learnt the basics of Tensorflow framework
+  *Used the Tensorflow framework to create various Image and Object detection applications
+  *Used YOLO, to learn more about Object Detection Architecture"""
   
 +++
