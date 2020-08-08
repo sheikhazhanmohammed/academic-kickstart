@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Intern"
+  company = "IIIT Delhi"
+  company_url = "https://www.iiitd.ac.in/"
+  location = "New Delhi"
+  date_start = "2020-07-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Working on Modulation Classification of Signals
+  * Currently studying the effect of Contrastive loss function in a Classification model
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Developer"
+  company = "Code-ML"
+  company_url = "https://code-ml.com/"
+  location = "Delhi"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = """Co-Founder at code-ml. We wish to serve the community by providing extensive study material and code available to everyone. Daily activities include:
+  * Studying recent advancements in the field
+  * Writing blogs on various ML and DL techniques
+  * Writing easy to understand code for each of the techniques and implement them to solve real world problems"""
 
 +++
