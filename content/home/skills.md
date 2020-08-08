@@ -26,7 +26,7 @@ subtitle = ""
   
 [[feature]]
   icon = "brain"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Deep Learning"
   
 [[feature]]
@@ -53,6 +53,11 @@ subtitle = ""
   icon = "node-js"
   icon_pack = "fab"
   name = "Node-JS" 
+   
+[[feature]]
+  icon = "react"
+  icon_pack = "fab"
+  name = "React" 
   
 [[feature]]
   icon = "aws"
