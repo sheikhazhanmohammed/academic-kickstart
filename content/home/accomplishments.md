@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   * Learnt about the framework Tensorflow, and how to use it."""
 
 [[item]]
-  organization = "Courser"
+  organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Tensorflow in Practice"
   url = ""
@@ -44,5 +44,12 @@ date_format = "Jan 2006"
   * Learnt the basics of Tensorflow framework
   * Used the Tensorflow framework to create various Image and Object detection applications
   * Used YOLO, to learn more about Object Detection Architecture and create one too"""
+  
+  [[item]]
+  organization = "Facebook Developer Community Challenge 2020"
+  organization_url = "https://developercircles2020.devpost.com/updates/14613-and-your-regional-winners-are"
+  title = "Regional Level Winner"
+  description = """
+  * We created a text classifier using RoBERTa model in PyTorch and deploy it using Heroku on a web application created using Flask and React JS. We perform the task of Sentiment Analysis on a given piece of text, and try to classify the text as either positive or negative."""
   
 +++
