@@ -56,4 +56,17 @@ date_format = "Jan 2006"
   description = """
   * We created a text classifier using RoBERTa model in PyTorch and deploy it using Heroku on a web application created using Flask and React JS. We perform the task of Sentiment Analysis on a given piece of text, and try to classify the text as either positive or negative. """
   
+  [[item]]
+  organization = "IEEE BigMM Data Challenge"
+  organization_url = "https://www.kaggle.com/c/ieee-bigmm-data-challenge/leaderboard"
+  title = "IEEE BigMM Data Challenge"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-31"
+  date_end = ""
+  description = """
+  * Performed twitter text sentiment analysis.
+  * Acheived competitive results in Public and Private test sets.
+  * System descriptive paper presented in the IEEE BigMM Conference 2020."""
+  
 +++
