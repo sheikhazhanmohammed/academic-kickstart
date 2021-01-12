@@ -49,7 +49,11 @@ date_format = "Jan 2006"
   organization = "Facebook Developer Community Challenge 2020"
   organization_url = "https://developercircles2020.devpost.com/updates/14613-and-your-regional-winners-are"
   title = "Regional Level Winner"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-11-18"
+  date_end = ""
   description = """
-  * We created a text classifier using RoBERTa model in PyTorch and deploy it using Heroku on a web application created using Flask and React JS. We perform the task of Sentiment Analysis on a given piece of text, and try to classify the text as either positive or negative."""
+  * We created a text classifier using RoBERTa model in PyTorch and deploy it using Heroku on a web application created using Flask and React JS. We perform the task of Sentiment Analysis on a given piece of text, and try to classify the text as either positive or negative. """
   
 +++
