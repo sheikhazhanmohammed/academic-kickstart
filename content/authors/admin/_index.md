@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Intern at IIIT Delhi
+role: AI Research Intern at MixORG Pvt Ltd
 
 # Organizations/Affiliations
 organizations:
-- name: IIIT Delhi
-  url: "https://www.iiitd.ac.in/"
+- name: MixORG Pvt Ltd
+  url: "https://mixorg.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: View my blogs at code-ml.com
+bio: Yeah, I can code?
 
 interests:
 - Image Processing 
