@@ -23,22 +23,34 @@ date_format = "Jan 2006"
   company_url = "https://www.iiitd.ac.in/"
   location = "New Delhi"
   date_start = "2020-07-01"
-  date_end = ""
+  date_end = "2021-05-07"
   description = """
   * Working on Modulation Classification of Signals
   * Currently studying the effect of Contrastive loss function in a Classification model
   """
+  
+  [[experience]]
+  title = "Research Intern"
+  company = "Advanced Computing Research Society"
+  company_url = "https://advancedcomputingresearchsociety.org/home"
+  location = "Chennai"
+  date_start = "2020-12-01"
+  date_end = "2021-05-15"
+  description = """Working as Research Intern at ACRS Chennai, working on Cryptocurrency wallets using Hindi Mnemonics as key. Day to activities comprise of:
+  * Reading relevant literature and devising authenticator functions.
+  * Shortlisting hindi words to be added into the password wallet.
+  * Development of web application that demonstrates the functioning of this G2R Wallet."""
 
 [[experience]]
-  title = "Developer"
-  company = "Code-ML"
-  company_url = "https://code-ml.com/"
-  location = "Delhi"
-  date_start = "2020-05-01"
+  title = "AI Research Intern"
+  company = "MixOrg Pvt. Ltd."
+  company_url = ""
+  location = "Noida"
+  date_start = "2021-04-01"
   date_end = ""
-  description = """Co-Founder at code-ml. We wish to serve the community by providing extensive study material and code available to everyone. Daily activities include:
-  * Studying recent advancements in the field
-  * Writing blogs on various ML and DL techniques
-  * Writing easy to understand code for each of the techniques and implement them to solve real world problems"""
+  description = """Working as AI Research Intern and Computer Vision Developer at MixOrg Pvt. Ltd., area of work includes study of IVF Cells and prediction of cell quality and pregnancy results. Day to activities comprise of:
+  * Reading relevant literature and devising working hypothesis.
+  * Creating deep learning pipelines to implement said hypothesis and validate results.
+  * Performing feature extraction and data engineering on various test reports and data."""
 
 +++
