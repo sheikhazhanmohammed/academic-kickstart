@@ -44,7 +44,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "AI Research Intern"
   company = "MixOrg Pvt. Ltd."
-  company_url = ""
+  company_url = "https://mixorg.com/"
   location = "Noida"
   date_start = "2021-04-01"
   date_end = ""
